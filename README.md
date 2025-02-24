@@ -24,5 +24,6 @@ I’d love to hear from you! If you have any questions, comments, or just want t
 - **Github**: [https://github.com/bernardowusumensah]
 - **LinkedIn**: [https://www.linkedin.com/in/owusu-mensah-bernard-77a62aaa/]
 - **Email**: [tgatelbernard@gmail.com]
+-  **Portfolio**: [http://codebernard.rf.gd/]
 
 Thanks for visiting, and I hope you enjoy the content here!
