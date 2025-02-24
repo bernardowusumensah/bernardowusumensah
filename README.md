@@ -1,7 +1,7 @@
 
  ## About Me
  <img src="photo.jpg" height="100"> 
-I'm a Software Engineer, and I have a passion for coding. Over the years, I've developed a deep interest in Full Stack Development, and I love learning more every day. When I'm not working, you can find me reading novels, or simply enjoying
+I'm a seasoned Software Engineer, and I have a strong passion for learning new technologies. I've  deep interest in Full Stack Development, and I love learning more every day. When I'm not working, you can find me reading novels, or simply enjoying
 life.
 
 <!-- ![Logo](photo.jpg) -->
