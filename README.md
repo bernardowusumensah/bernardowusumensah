@@ -13,7 +13,7 @@ life.
 
 - **Tech & Programming**: From coding tutorials to the latest trends in the tech world.
 - **Personal Experiences**: Sharing life lessons, challenges, and growth.
-- **Creative Projects**: Showcasing my work in [art, writing, music, or any other creative field you're into].
+- **Creative Projects**: Showcasing my work in [Technology, creativity, programming,].
 - **Life Tips**: Offering advice on balancing work, hobbies, and personal life.
 
 - ### [Blog Post Title 1](#)
