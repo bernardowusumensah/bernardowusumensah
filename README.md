@@ -1,6 +1,6 @@
 
  ## About Me
- <img src="photo.jpg" height="100"> 
+ <img src="photo.jpg" height="120" > 
 I'm a seasoned Software engineer with a strong passion for learning new technologies. I've  deep interest in Full Stack Development, and I love learning more every day. When I'm not working, you can find me reading novels, or simply enjoying
 life.
 
