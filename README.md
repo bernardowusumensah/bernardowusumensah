@@ -9,7 +9,7 @@ life.
 
 ## What I Write About
 <img src="csharp.png" height="100"> <img src="laravel.png" height="100"> <img src="js.png" height="100"> <img src="sql.jpg" height="100"> 
-On this blog, I'll be covering a variety of topics, including:
+
 
 - **Tech & Programming**: From coding tutorials to the latest trends in the tech world.
 - **Personal Experiences**: Sharing life lessons, challenges, and growth.
