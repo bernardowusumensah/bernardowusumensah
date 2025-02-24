@@ -8,7 +8,7 @@ life.
 <!-- <img src="photo.jpg" height="100"> -->
 
 ## What I Write About
-<img src="photo.jpg" height="20"> <img src="photo.jpg" height="20"> <img src="photo.jpg" height="20"> <img src="photo.jpg" height="20"> <img src="photo.jpg" height="20"> 
+<img src="csharp.png" height="40"> <img src="laravel.png" height="40"> <img src="js.png" height="40"> <img src="sql.jpg" height="20"> 
 On this blog, I'll be covering a variety of topics, including:
 
 - **Tech & Programming**: From coding tutorials to the latest trends in the tech world.
