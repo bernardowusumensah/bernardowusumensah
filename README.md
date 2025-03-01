@@ -8,7 +8,7 @@ life.
 <!-- <img src="photo.jpg" height="100"> -->
 
 ## What I Write About
-<img src="csharp.png" height="100"> <img src="laravel.png" height="100"> <img src="js.png" height="100"> <img src="sql.jpg" height="100"> 
+<img src="csharp.png" height="100"> <img src="laravel.png" height="100"> <img src="js.png" height="100"> <img src="sql.jpg" height="100"> <img src="HTML5.png" height="100"> <img src="css3.png" height="100"> 
 
 
 - **Tech & Programming**: From coding tutorials to the latest trends in the tech world.
