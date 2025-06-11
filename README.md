@@ -5,7 +5,7 @@ I'm a seasoned Software engineer with a strong passion for learning new technolo
 life.
 
 <!-- ![Logo](photo.jpg) -->
-<!-- <img src="photo.jpg" height="100"> -->
+<!-- <img src="photo.jpg" height="80"> -->
 
 ## What I Write About
 <img src="csharp.png" height="100"> <img src="laravel.png" height="100"> <img src="js.png" height="100"> <img src="sql.jpg" height="100"> <img src="HTML5.png" height="100"> <img src="css3.png" height="100"> 
