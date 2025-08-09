@@ -20,7 +20,7 @@ life.
 
 I’d love to hear from you! If you have any questions, comments, or just want to chat about the things I write, feel free to reach out. You can find me on:
 
--  **Portfolio**: [https://owusumensahbernard.wixsite.com/codebernard]
+-  **Portfolio**: [https://bernardowusumensah.github.io/codeBernard/]
 - **Github**: [https://github.com/bernardowusumensah]
 - **LinkedIn**: [https://www.linkedin.com/in/owusu-mensah-bernard-77a62aaa/]
 - **Email**: [tgatelbernard@gmail.com]
