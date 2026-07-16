@@ -61,9 +61,6 @@ Focus areas:
 - Web Application Architecture
 - Database Design
 - Cloud-Based Application Development
-
----
-
 ## Selected Research & Software Projects
 
 ### AI Research Director Agent
