@@ -66,7 +66,7 @@ Focus areas:
 
 ## Selected Research & Software Projects
 
-### 🤖 AI Research Director Agent
+### AI Research Director Agent
 An intelligent AI agent designed to support research workflows through:
 - Automated survey generation
 - Data analysis assistance
@@ -78,14 +78,14 @@ Technologies:
 `Web Development` `Database Systems` `Full Stack Architecture`
 
 
-### 🛒 Purchs
+###  Purchs
 A full-stack application focused on scalable web architecture.
 
 Technologies:
 `React` `Node.js` `MongoDB` `Cloud Deployment`
 
 
-### 📊 Yadag
+###  Yadag
 An administrative dashboard application.
 
 Technologies:
@@ -116,8 +116,7 @@ Technologies:
 
 I am seeking graduate research opportunities in:
 
-- Artificial Intelligence
-- Data Engineering
+- Artificial Intelligence - Data Engineering
 - Distributed Systems
 - Intelligent Information Systems
 - Human-Centered AI Applications
