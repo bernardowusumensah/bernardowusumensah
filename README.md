@@ -1,9 +1,4 @@
 # Bernard Owusu-Mensah
-
-<p align="center">
-  <img src="photo.jpg" height="120" width="120" alt="Bernard Owusu-Mensah">
-</p>
-
 ## About Me
 
 I am a Software Engineer with a strong interest in Artificial Intelligence, Data Engineering, and Intelligent Systems. My work focuses on building scalable software systems and exploring how emerging AI technologies can be applied to solve complex real-world problems.
