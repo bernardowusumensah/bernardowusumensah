@@ -44,6 +44,8 @@ Focus areas:
 
 
 ## Connect With Me
+**portfolio**
+https://codeben.vercel.app/
 
 💻 **GitHub:**  
 https://github.com/bernardowusumensah
@@ -52,4 +54,4 @@ https://github.com/bernardowusumensah
 https://www.linkedin.com/in/owusu-mensah-bernard-77a62aaa/
 
 📧 **Email:**  
-tgatelbernard@gmail.com, owusumensahbernard@gmail.com
+owusumensahbernard@gmail.com
